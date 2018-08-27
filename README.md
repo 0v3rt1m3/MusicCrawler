@@ -11,8 +11,9 @@ Install ffmpeg get it <a href='https://ffmpeg.zeranoe.com/builds/'>here</a>
 2. Extract zip and go to root folder.
 3. Run Command Prompt or Command Line and go to the current directory of the extracted folder.
 4. Run `pip install -r requirements.txt`
-5. Downloaded files goes to 
+5. Downloaded files goes to path /mp4 for mp4 files that are audio only and path /mp3 for mp3 files.
 
 # Sample Installation
 
-# Usage
+# Add your own sites
+
