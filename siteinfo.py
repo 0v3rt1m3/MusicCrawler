@@ -7,7 +7,7 @@ SITE_LIST = [
      'XPATHsong': "//*[contains(@class, 'listItem__title')]",
      'XPATHauthor': "//*[contains(@class, 'listItem__properties black default')]"},
 
-    # Supports multiple list
+    # Supports multiple list of songs
     # {'url': 'http://www.popvortex.com/music/charts/top-indie-songs.php',
     #  'XPATHsong': '//div/p/cite/a',
     #  'XPATHauthor':'//div/p/em'},
